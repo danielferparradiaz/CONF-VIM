@@ -38,7 +38,6 @@
 # Neovim + herramientas obligatorias
 brew install neovim tree-sitter-cli ripgrep fd git
 brew install node python        # Mason/NPM y pyright
-brew install yt-dlp ffmpeg      # solo si usas el proyecto OfflineAudio
 
 # Nerd Font (iconos). Elige tu terminal: iTerm2 / WezTerm / Kitty
 brew install --cask font-jetbrains-mono-nerd-font iterm2
